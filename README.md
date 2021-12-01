@@ -37,4 +37,4 @@
 <h3> Preview </h3>
 <p><img src="preview.png"></p>
 <h5> <p>Thanks to <a href="https://icons8.com">Icons 8</a> &amp; <a href="https://icons8.com/icons/authors/3kSkbuAyjUdG/justicon">Justicon</a> &amp;  for the awesome icons ! </p> </h5>
-⭐ Please star this repo if you like !
+<h5> <b> ⭐ Please star this repo if you like ! </b> </h5>
