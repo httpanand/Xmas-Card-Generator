@@ -16,7 +16,7 @@
 <li>File name </li>
 </ul>
 
-<h3> Header Options </h3>
+<h3> Header Icon Options </h3>
 <ul>
 <li>Santa Hat</li>
 <li>Xmas Tree</li>
@@ -25,4 +25,6 @@
 <li>Xmas Girl</li>
 <li>Xmas Gift</li>
 </ul>
-<h5><b>You can select header by inputting corresponding serial number</b></h5>
+<h5><b>You can select header icons by inputting corresponding serial number</b></h5>
+
+<h3> Footer Icon Options </h3>
