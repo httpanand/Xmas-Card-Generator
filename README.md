@@ -28,3 +28,9 @@
 <h5><b>You can select header icons by inputting corresponding serial number</b></h5>
 
 <h3> Footer Icon Options </h3>
+<ul>
+<li>Xmas Train</li>
+<li>Xmas Sledge</li>
+</ul>
+<h5><b>You can select footer icons by inputting corresponding serial number</b></h5>
+<h3> Preview </h3>
