@@ -35,4 +35,4 @@
 <h5><b>You can select footer icons by inputting corresponding serial number</b></h5>
 
 <h3> Preview </h3>
-<p align="center"><img src="preview.png"></p>
+<p><img src="preview.png"></p>
