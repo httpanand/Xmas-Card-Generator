@@ -88,5 +88,3 @@ draw.text((25,280),frm_msg,text_color,font=font)
 
 file = input("enter file name : \n")
 image.save(f'{file}.png')
-
-
