@@ -4,6 +4,9 @@
 
 <h3 align="center">Automatically build Xmas cards with user inputs </h3>
 
+```
+pip install Pillow
+```
 <h3> Available Options </h3>
 <ul>
 <li>Text Color</li>
