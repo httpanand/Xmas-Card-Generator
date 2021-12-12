@@ -1,6 +1,8 @@
 <h1 align="center">Xmas Card Generator
 <img src="https://img.icons8.com/color/24/000000/christmas-star.png"/>
 </h1>
+<p align="center"><a><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="forthebadge made-with-python"></a>
+<a href="https://GitHub.com/Naereen/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love"></a></p>
 
 <h3 align="center">Automatically build Xmas cards with user inputs </h3>
 
