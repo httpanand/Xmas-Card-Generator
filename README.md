@@ -29,18 +29,25 @@ pip install Pillow
 <li>Xmas Boy</li>
 <li>Xmas Girl</li>
 <li>Xmas Gift</li>
+<li>Santa with Deer</li>
+<li>Decorate with Family</li>
+<li>Tree with Couples</li>
 </ul>
+
 <h5><b>You can select header icons by inputting corresponding serial number</b></h5>
 
 <h3> Footer Icon Options </h3>
 <ul>
 <li>Xmas Train</li>
 <li>Xmas Sledge</li>
+<li>Santa on Chair</li>
+<li> Merry Christmas Logo</li>
 </ul>
+
 <h5><b>You can select footer icons by inputting corresponding serial number</b></h5>
 
 <h3> Preview </h3>
 <p><img src="preview.png"></p>
 <h5> <p>Thanks to <a href="https://icons8.com">Icons 8</a> &amp; <a href="https://icons8.com/icons/authors/3kSkbuAyjUdG/justicon">Justicon</a> &amp;  for the awesome icons ! </p> </h5>
-
+<h5> <p> Thanks to <a href="https://www.fontfabric.com/fonts/nexa/"> Nexa Font Family </p>
 <h5> <b> ⭐ Please star this repo if you like ! </b> </h5>
